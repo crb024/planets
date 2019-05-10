@@ -1,0 +1,7 @@
+# ignoer .dat files and results
+*.dat
+results/
+
+#allow examples to be commmited
+!example.dat
+!**/example.out
